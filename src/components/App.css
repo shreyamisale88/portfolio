@@ -1,0 +1,17 @@
+body {
+	/*background-color: #e90090;bachttp://elenatahorakground-color: rgb(112, 218, 209); */
+	background-image: url(https://cdn57.androidauthority.net/wp-content/uploads/2018/08/learn-web-development-920x470.jpg);
+	color: #162447;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.App {
+	text-align: center;
+	display: flex;
+	min-height: 100vh;
+	align-items: center;
+}
+
+h1 {
+	font-size: 57px;
+}
