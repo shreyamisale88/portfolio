@@ -1,9 +1,6 @@
 # React Portfolio
 
-A simple portfolio website made in react for the webinar conducted by Codechef VIT
-
-**Webinar Link:** [http://bit.ly/CCReactPortfolio](http://bit.ly/CCReactPortfolio)
-
+A simple portfolio website made in react 
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/26179770/82739072-56607180-9d5a-11ea-8117-0f7df5bf6b00.png)
